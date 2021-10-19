@@ -1,0 +1,59 @@
+{
+    "sem1": [
+        {
+            "id": 1,
+            "image": "Image/M1.png",
+            "price": "500 RS"
+        },
+        
+        {
+            "id": 2,
+            "image": "Image/M1.png",
+            "price": "500 RS"
+        }
+    ],
+
+    "sem2": [
+        {
+            "id": 3,
+            "image": "Image/M2.png",
+            "price": "500 RS"
+        },
+        
+        {
+            "id": 4,
+            "image": "Image/M2.png",
+            "price": "500 RS"
+        }
+    ],
+
+    "sem3": [
+        {
+            "id": 5,
+            "image": "Image/M3.png",
+            "price": "500 RS"
+        },
+        
+        {
+            "id": 6,
+            "image": "Image/M3.png",
+            "price": "500 RS"
+        }
+    ],
+
+    "sem4": [
+        {
+            "id": 7,
+            "image": "Image/M4.png",
+            "price": "500 RS"
+        },
+        
+        {
+            "id": 8,
+            "image": "Image/M4.png",
+            "price": "500 RS"
+        }
+    ]
+    
+
+}
